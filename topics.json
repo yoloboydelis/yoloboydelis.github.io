@@ -1,0 +1,130 @@
+[
+ {
+  "slug": "van-gogh",
+  "title": "Free Van Gogh Prints",
+  "h1": "Free Van Gogh prints from The Met (public domain)",
+  "params": {
+   "q": "Vincent van Gogh",
+   "artistOrCulture": "true"
+  },
+  "match": "artistDisplayName~Gogh",
+  "intro": "Paintings and drawings by Vincent van Gogh that The Metropolitan Museum of Art has released as public domain (CC0). Each entry shows the real pixel size of the museum's full-resolution file and how large you can print it."
+ },
+ {
+  "slug": "botanical-prints",
+  "title": "Free Botanical Prints",
+  "h1": "Free botanical prints: public-domain flower and plant art",
+  "params": {
+   "q": "flowers botanical"
+  },
+  "intro": "Botanical illustrations, flower studies and plant prints from The Met's Open Access collection. All are public domain (CC0), so you can print them for your walls.",
+  "exclude": "objectName~Plate|objectName~Dish|objectName~Platter|objectName~Bowl|objectName~Panel|title~Grisaille|title~Blackwork|title~Vase|title~Architectura"
+ },
+ {
+  "slug": "vintage-maps",
+  "title": "Free Vintage Map Prints",
+  "h1": "Free vintage map prints from The Met (public domain)",
+  "params": {
+   "q": "map engraving"
+  },
+  "match": "title~Map|title~map|title~Plan|title~View of",
+  "intro": "Old maps, plans and city views from The Met's public-domain collection, with the maximum print size for each file.",
+  "exclude": "title~ampler|objectName~Case|title~seller|objectName~Textile|title~Sketchbook|title~Trade Card|title~Goblet|title~Copying|title~Instructing"
+ },
+ {
+  "slug": "hokusai",
+  "title": "Free Hokusai Prints",
+  "h1": "Free Hokusai prints (public domain)",
+  "params": {
+   "q": "Katsushika Hokusai",
+   "artistOrCulture": "true"
+  },
+  "match": "artistDisplayName~Hokusai",
+  "intro": "Woodblock prints by Katsushika Hokusai, including views of Mount Fuji, released by The Met as public domain."
+ },
+ {
+  "slug": "monet",
+  "title": "Free Claude Monet Prints",
+  "h1": "Free Claude Monet prints (public domain)",
+  "params": {
+   "q": "Claude Monet",
+   "artistOrCulture": "true"
+  },
+  "match": "artistDisplayName~Monet",
+  "intro": "Paintings by Claude Monet from The Met's Open Access collection."
+ },
+ {
+  "slug": "japanese-woodblock-prints",
+  "title": "Free Japanese Woodblock Prints",
+  "h1": "Free Japanese woodblock prints (ukiyo-e, public domain)",
+  "params": {
+   "q": "ukiyo-e woodblock print"
+  },
+  "intro": "Ukiyo-e woodblock prints from The Met's public-domain collection.",
+  "exclude": "objectName~Plate|objectName~Dish|objectName~Bowl|objectName~Vase"
+ },
+ {
+  "slug": "bird-prints",
+  "title": "Free Bird Prints",
+  "h1": "Free bird art prints (public domain)",
+  "params": {
+   "q": "birds"
+  },
+  "match": "title~ird",
+  "intro": "Birds in prints, drawings and paintings from The Met's Open Access collection.",
+  "exclude": "objectName~Plate|objectName~Dish|objectName~Bowl|objectName~Vase"
+ },
+ {
+  "slug": "cezanne",
+  "title": "Free Paul C\u00e9zanne Prints",
+  "h1": "Free Paul C\u00e9zanne prints (public domain)",
+  "params": {
+   "q": "Paul C\u00e9zanne",
+   "artistOrCulture": "true"
+  },
+  "match": "artistDisplayName~zanne",
+  "intro": "Works by Paul C\u00e9zanne released as public domain by The Met."
+ },
+ {
+  "slug": "rembrandt",
+  "title": "Free Rembrandt Prints",
+  "h1": "Free Rembrandt prints and etchings (public domain)",
+  "params": {
+   "q": "Rembrandt",
+   "artistOrCulture": "true"
+  },
+  "match": "artistDisplayName~Rembrandt",
+  "intro": "Paintings, etchings and drawings by Rembrandt van Rijn from The Met's Open Access collection."
+ },
+ {
+  "slug": "seascapes",
+  "title": "Free Seascape Prints",
+  "h1": "Free seascape and ocean art prints (public domain)",
+  "params": {
+   "q": "seascape"
+  },
+  "intro": "Seascapes and coastal scenes from The Met's public-domain collection.",
+  "exclude": "objectName~Plate|objectName~Dish|objectName~Bowl|objectName~Vase"
+ },
+ {
+  "slug": "degas",
+  "title": "Free Edgar Degas Prints",
+  "h1": "Free Edgar Degas prints (public domain)",
+  "params": {
+   "q": "Edgar Degas",
+   "artistOrCulture": "true"
+  },
+  "match": "artistDisplayName~Degas",
+  "intro": "Dancers, pastels and paintings by Edgar Degas from The Met's Open Access collection."
+ },
+ {
+  "slug": "vintage-fashion-plates",
+  "title": "Free Vintage Fashion Plates",
+  "h1": "Free vintage fashion plate prints (public domain)",
+  "params": {
+   "q": "fashion plate"
+  },
+  "intro": "Fashion plates from The Met's public-domain collection, ideal for prints.",
+  "exclude": "objectName~Plate|objectName~Dish|objectName~Bowl|objectName~Vase"
+ }
+]
